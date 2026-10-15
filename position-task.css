@@ -1,0 +1,31 @@
+        div{
+            width: 100px;
+            height: 100px;
+        }
+        .first{
+            margin-left: 600px;
+            background-color: red;
+            position: fixed;
+            top: 100px;
+        }
+        .second{
+            margin-left: 400px;
+            background-color: blue;
+            position: sticky;
+            top: 300px;
+        }
+        .third{
+            background-color: green;
+            position: relative;
+            left: 800px;
+            top: 200px;
+        }
+        .fourth{
+            background-color: yellow;
+            position: absolute;
+            top: 500px;
+            left:600px
+        }
+        .main{
+            height: 1200px;
+        }
